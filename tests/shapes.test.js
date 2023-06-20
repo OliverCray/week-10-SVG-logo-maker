@@ -9,3 +9,23 @@ describe('Triangle', () => {
         expect(actualSVG).toEqual(expectedSVG)
     })
 })
+
+describe('Circle', () => {
+    test('should render svg for a cyan circle', () => {
+        const expectedSVG = '<circle cx="150" cy="100" r="80" fill="cyan"/>'
+        const circle = new Circle()
+        circle.setColour('cyan')
+        const actualSVG = circle.render()
+        expect(actualSVG).toEqual(expectedSVG)
+    })
+})
+
+describe('Square', () => {
+    test('should render svg for a bisque square', () => {
+        const expectedSVG = '<rect x="90" y="40" width="120" height="120" fill="bisque"/>'
+        const square = new Square()
+        square.setColour('bisque')
+        const actualSVG = square.render()
+        expect(actualSVG).toEqual(expectedSVG)
+    })
+})
