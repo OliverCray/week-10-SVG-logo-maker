@@ -1,4 +1,4 @@
-const { circle, square, triangle, Circle, Triangle } = require('../lib/shapes')
+const { Circle, Square, Triangle } = require('../lib/shapes')
 
 describe('Triangle', () => {
     test('should render svg for a blue triangle', () => {
