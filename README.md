@@ -48,7 +48,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ![Application Screenshot](./assets/images/screenshot-of-application.jpg) 
 
-![SVG logo example Screenshot](./assets/images/screenshot-of-svg.jpg) 
+![SVG logo example](./assets/images/example_logo.svg) 
 
 ## Demonstration Video
 
