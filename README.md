@@ -52,4 +52,4 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Demonstration Video
 
-A demonstration video is availabe here:
+A demonstration video is availabe here: https://drive.google.com/file/d/1qSTKZkvCT02jdyMRiVyJzItES0Z65vhN/view
